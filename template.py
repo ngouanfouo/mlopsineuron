@@ -3,7 +3,7 @@ from pathlib import Path
 
 
 list_of_files=[
-    ".github/workflows/.gitkeep"
+    ".github/workflows/.gitkeep",
     "src/__init__.py",
     "scr/components/__init__.py",
     "scr/components/data_ingestion.py",
@@ -13,10 +13,10 @@ list_of_files=[
     "scr/pipeline/__init__.py",
     "scr/pipeline/training_pipeline.py",
     "scr/pipeline/prediction_pipeline.py",
-    "scr/utils/__init__.py"
+    "scr/utils/__init__.py",
     "scr/utils/utils.py",
     "scr/logger/logging.py",
-    "scr/exception/exception"
+    "scr/exception/exception",
     "tests/unit/__init__.py",
     "tests/integration/__init__.py",
     "init_setup.sh",
